@@ -1,3 +1,18 @@
+.logoImage {
+    width: 50px;
+    height: 50px;
+}
+
+.logoTitle {
+    font-size: 25px;
+    font-weight: bold;
+    color: green;
+}
+
+.navbarBackground {
+    background-color: khaki;
+}
+
 .text-center {
     text-align: center;
 }
@@ -31,19 +46,19 @@
     text-transform: uppercase;
 }
 
-.log ul li {
-    margin: 5px;
-}
+    .log ul li {
+        margin: 5px;
+    }
 
-.log ul .player-turn {
-    color: blue;
-    background-color: #e4e8ff;
-}
+    .log ul .player-turn {
+        color: blue;
+        background-color: #e4e8ff;
+    }
 
-.log ul .monster-turn {
-    color: red;
-    background-color: #ffc0c1;
-}
+    .log ul .monster-turn {
+        color: red;
+        background-color: #ffc0c1;
+    }
 
 button {
     font-size: 20px;
@@ -57,38 +72,38 @@ button {
     background-color: #aaffb0;
 }
 
-#start-game:hover {
-    background-color: #76ff7e;
-}
+    #start-game:hover {
+        background-color: #76ff7e;
+    }
 
 #attack {
     background-color: #ff7367;
 }
 
-#attack:hover {
-    background-color: #ff3f43;
-}
+    #attack:hover {
+        background-color: #ff3f43;
+    }
 
 #special-attack {
     background-color: #ffaf4f;
 }
 
-#special-attack:hover {
-    background-color: #ff9a2b;
-}
+    #special-attack:hover {
+        background-color: #ff9a2b;
+    }
 
 #heal {
     background-color: #aaffb0;
 }
 
-#heal:hover {
-    background-color: #76ff7e;
-}
+    #heal:hover {
+        background-color: #76ff7e;
+    }
 
 #give-up {
     background-color: #ffffff;
 }
 
-#give-up:hover {
-    background-color: #c7c7c7;
-}
+    #give-up:hover {
+        background-color: #c7c7c7;
+    }
